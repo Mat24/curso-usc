@@ -1,5 +1,10 @@
 Rails.application.routes.draw do
   get 'programacion_web/index'
+  get 'programacion_web/punto1'
+  get 'programacion_web/punto2'
+  get 'programacion_web/punto3'
+  get 'programacion_web/punto4'
+  get 'programacion_web/punto5'
 
   root 'home#index'
 
