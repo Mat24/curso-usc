@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  get 'acerca_de/index'
+
   get 'programacion_web/index'
   get 'programacion_web/punto1'
   get 'programacion_web/punto2'

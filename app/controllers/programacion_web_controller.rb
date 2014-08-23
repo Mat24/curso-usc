@@ -5,4 +5,8 @@ class ProgramacionWebController < ApplicationController
   end
   def punto2
   end
+  def punto3
+  end
+  def punto4
+  end
 end
